@@ -103,6 +103,19 @@ tiny_llm/
 | Vocabulary | 58 chars |
 | Context Length | 96 tokens |
 
+## How to use it?
+
+```bash
+git clone https://github.com/Rehanasharmin/Tinyllm-v2.1.git
+```
+SECOND STEP(if pytorch not updated)
+```bash
+pip install torch --upgrade
+```
+THIRD STEP
+```bash
+python chat.py
+```
 ## Python Integration
 
 ```python
