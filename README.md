@@ -114,6 +114,10 @@ pip install torch --upgrade
 ```
 THIRD STEP
 ```bash
+cd Tinyllm-v2.1
+```
+FOURTH STEP
+```bash
 python chat.py
 ```
 ## Python Integration
