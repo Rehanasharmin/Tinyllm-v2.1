@@ -1,0 +1,73 @@
+{
+  "v2.1": {
+    "performance": {
+      "times": [
+        555.5970738641918,
+        1195.197171997279,
+        1302.6922596618533,
+        1204.8779092729092,
+        1289.2024042084813
+      ],
+      "throughputs": [
+        39.59704079611046,
+        34.30396336320426,
+        33.008563366425264,
+        32.36842480043043,
+        31.02693562269487
+      ],
+      "avg_time": 1109.513363800943,
+      "avg_throughput": 34.06098558977306
+    },
+    "quality": [
+      {
+        "question": "Who are you?",
+        "category": "identity",
+        "response": "I am a very small language model.",
+        "word_count": 7,
+        "char_count": 33
+      },
+      {
+        "question": "What color do you like?",
+        "category": "personality",
+        "response": "I like blue. It is calm and simple.",
+        "word_count": 8,
+        "char_count": 35
+      },
+      {
+        "question": "What did I say earlier?",
+        "category": "memory",
+        "response": "I cannot remember earlier messages. Please say aga",
+        "word_count": 8,
+        "char_count": 50
+      },
+      {
+        "question": "What time is it?",
+        "category": "time",
+        "response": "now cannot check time, but I can talk with you.",
+        "word_count": 10,
+        "char_count": 47
+      },
+      {
+        "question": "Hello",
+        "category": "greeting",
+        "response": "Hi, I am TinyLLM. How can I help you?",
+        "word_count": 9,
+        "char_count": 37
+      },
+      {
+        "question": "Explain quantum physics",
+        "category": "knowledge",
+        "response": "I am not sure, but I can try to help.",
+        "word_count": 10,
+        "char_count": 37
+      },
+      {
+        "question": "Tell me about cats",
+        "category": "general",
+        "response": "I am not sure, but I can try to help.",
+        "word_count": 10,
+        "char_count": 37
+      }
+    ]
+  }
+}
