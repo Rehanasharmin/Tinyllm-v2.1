@@ -181,4 +181,4 @@ MIT License - see [LICENSE](LICENSE)
 
 **TinyLLM v2.1** - 2.28M parameters, production ready
 
-*Author: Matrix Agent*
+*Author: rehanasharmin*
